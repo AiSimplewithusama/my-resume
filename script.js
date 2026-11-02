@@ -6,7 +6,7 @@ const CONTENT = {
   name: "Alex Morgan",
   title: "Product Designer",
   location: "Toronto, Canada",
-  photo: "https://placehold.co/320x320/e8f3f1/1f7a73?text=Photo",   // change to "photo.jpg" after you add your photo to the folder
+  photo: "photo.jpg",
   intro: "Product designer with 6 years of experience turning messy problems into simple, friendly apps. I work closely with engineers and users, test early, and care about every detail from the first sketch to launch.",
 
   links: {
